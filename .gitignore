@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+db.sqlite3
+node_modules/
+frontend/dist/
+backend/ground_truth.json
+.env
+.pytest_cache/

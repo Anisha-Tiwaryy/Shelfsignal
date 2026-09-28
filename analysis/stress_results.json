@@ -1,0 +1,123 @@
+[
+ {
+  "sweep": "stores",
+  "value": 10,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 5.0,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "stores",
+  "value": 20,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 4.75,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "stores",
+  "value": 40,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 6.5,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "stores",
+  "value": 90,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 7.083,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "ocr_noise",
+  "value": 0.015,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 7.083,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "ocr_noise",
+  "value": 0.05,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 8.167,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "ocr_noise",
+  "value": 0.1,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 7.0,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "ocr_noise",
+  "value": 0.2,
+  "recall": 1.0,
+  "precision": 0.917,
+  "false": 1.667,
+  "kind_ok": 1.0,
+  "launch_err": 4.917,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "visit_every_days",
+  "value": 7,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 5.5,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "visit_every_days",
+  "value": 14,
+  "recall": 1.0,
+  "precision": 1.0,
+  "false": 0,
+  "kind_ok": 1.0,
+  "launch_err": 7.083,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ },
+ {
+  "sweep": "visit_every_days",
+  "value": 28,
+  "recall": 1.0,
+  "precision": 0.952,
+  "false": 0,
+  "kind_ok": 0.963,
+  "launch_err": 15.75,
+  "shock_fa": 0,
+  "shock_found": "3/3"
+ }
+]
